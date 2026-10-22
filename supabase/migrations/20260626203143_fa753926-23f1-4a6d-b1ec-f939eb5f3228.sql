@@ -1,0 +1,1 @@
+UPDATE public.services SET price_from = 100, show_price = true WHERE slug = 'cuidado-adulto-mayor';

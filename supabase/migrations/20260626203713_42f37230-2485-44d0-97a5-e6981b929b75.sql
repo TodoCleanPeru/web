@@ -1,0 +1,1 @@
+UPDATE public.services SET title = 'LEPUCHY & MANGO PET' WHERE slug = 'servicios-mascotas';

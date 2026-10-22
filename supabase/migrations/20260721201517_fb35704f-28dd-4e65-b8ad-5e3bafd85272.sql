@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Public read gallery" ON storage.objects;

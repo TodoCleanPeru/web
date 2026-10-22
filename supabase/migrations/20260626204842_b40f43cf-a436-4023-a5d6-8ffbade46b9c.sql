@@ -1,0 +1,2 @@
+UPDATE public.services SET hero_image_url = '/__l5e/assets-v1/a227cd85-f39c-419a-b405-35f70d5d817a/limpieza-residencial.jpg' WHERE slug = 'limpieza-residencial';
+UPDATE public.services SET hero_image_url = '/__l5e/assets-v1/0ff188e2-4dfe-4f95-9c69-19c1762edf1a/lepuchy-mango-pet-hero.png' WHERE slug = 'servicios-mascotas';

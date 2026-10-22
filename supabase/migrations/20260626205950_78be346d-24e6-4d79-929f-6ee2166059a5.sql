@@ -1,0 +1,3 @@
+UPDATE public.services SET hero_image_url = '/__l5e/assets-v1/1b02c3a1-77b7-4399-be60-6b4c0bdd6b11/soulclean.png' WHERE slug = 'soulclean';
+UPDATE public.services SET hero_image_url = '/__l5e/assets-v1/92ce5971-c617-4fb4-8cf1-33967b92399a/sabor-para-todos-peru.jpg' WHERE slug = 'sabor-para-todos-peru';
+UPDATE public.services SET hero_image_url = '/__l5e/assets-v1/6639bb93-0b62-4d2f-adb9-c72b9517e703/limpieza-oficinas.jpg' WHERE slug = 'limpieza-oficinas';
