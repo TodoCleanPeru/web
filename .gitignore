@@ -26,3 +26,6 @@ dist-ssr
 *.sln
 *.sw?
 .lovable/
+
+# Temporary media recovered during the Lovable storage migration
+deliverables/todo-clean-gallery-migration/
